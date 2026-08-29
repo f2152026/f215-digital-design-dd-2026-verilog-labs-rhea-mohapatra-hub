@@ -12,7 +12,6 @@ module tb;
   wire [3:0] t_sum;
   wire       t_cout;
   
-
   ripple_adder DUT (
     .a    (t_a),
     .b    (t_b),
