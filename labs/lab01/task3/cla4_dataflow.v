@@ -13,6 +13,7 @@
 //   assign #(2) cout = ... (same pattern, one more term)
 //   assign #(2) sum  = p ^ {c3, c2, c1, cin};
 
+
 module cla4_dataflow(
   input  [3:0] a,
   input  [3:0] b,

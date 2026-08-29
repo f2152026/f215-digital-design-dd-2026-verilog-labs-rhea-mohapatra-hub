@@ -19,6 +19,7 @@
 // TODO -- Step 3: sum bits
 //   sum[i] = p[i] ^ c[i]     (c0 = cin)
 
+
 module cla4(
   input  [3:0] a,
   input  [3:0] b,
