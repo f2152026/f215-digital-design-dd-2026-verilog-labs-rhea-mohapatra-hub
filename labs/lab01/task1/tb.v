@@ -7,6 +7,7 @@ module tb;
   reg  t_a, t_b, t_cin;
   wire t_sum, t_cout;
 
+
   FA_Gate DUT (
     .a    (t_a),
     .b    (t_b),
